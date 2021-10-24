@@ -1,0 +1,2 @@
+# GOPasswordGenerator
+Lightweight password generator.
